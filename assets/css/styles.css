@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+h2, h3 {
+    color: #343a40;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#productos, #reseñas, #datos_tienda, #horario_atencion {
+    padding: 20px;
+    margin: 20px;
+    background-color: #000;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+footer#datos_tienda {
+    margin-top: 20px;
+    background-color: #0053a7;
+    color: #ffffff;
+}
+
+footer#horario_atencion {
+    margin-top: 10px;
+    background-color: #0053a7;
+    color: #ffffff;
+}
